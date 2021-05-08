@@ -1,6 +1,5 @@
-### @Juba97
 ### Hi there 👋, *My name is Juba*  
-#### 💻 I'm .NET Developer 
+#### 💻 ~I'm~ .NET Developer 
 #
 
 > 🌱 **interested in software engineering, and I've learned the basics.**
