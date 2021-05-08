@@ -8,7 +8,7 @@
 ⚡ [Jump on the resume](https://github.com/juba97/Resume)
   
 
-[<img src='https://miro.medium.com/max/800/1*sHhtYhaCe2Uc3IU0IgKwIQ.png' alt='github' height='40'>](https://github.com/juba97?tab=repositories)  [<img src='https://icons.veryicon.com/png/Internet%20%26%20Web/Simple%201/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/juba-koguashvili-0a2108a8/)  [<img src='https://seeklogo.com/images/T/twitter-logo-A84FE9258E-seeklogo.com.png' alt='twitter' height='40'>](https://twitter.com/jubakoguashvili)  [<img src='https://apifriends.com/wp-content/uploads/2018/04/stack-overflow-orange.png' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/14513605/juba-koguashvili)  
+[<img src='https://lh3.googleusercontent.com/proxy/eIEFKDzjig8AZYP4-l_-rEsDEx3G-cteBXj6XS25wHE7QWG--_1DuwcBgjVlUMaO2Fb0XtmIUj_eCezEo4zv5q8Hj6MDlkLHq3UKA0wFVvQuBvy-SnMcxoPKw2rojW8v' alt='github' height='40'>](https://github.com/juba97?tab=repositories)  [<img src='https://icons.veryicon.com/png/Internet%20%26%20Web/Simple%201/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/juba-koguashvili-0a2108a8/)  [<img src='https://seeklogo.com/images/T/twitter-logo-A84FE9258E-seeklogo.com.png' alt='twitter' height='40'>](https://twitter.com/jubakoguashvili)  [<img src='https://apifriends.com/wp-content/uploads/2018/04/stack-overflow-orange.png' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/14513605/juba-koguashvili)  
 
   
  
