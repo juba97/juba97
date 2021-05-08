@@ -1,6 +1,6 @@
 > 🌱 **interested in software engineering, and I've learned the basics.**
 
-⚡ [JUMP TO RESUME](https://github.com/juba97/Resume)
+⚡ [JUMPs TO RESUME](https://github.com/juba97/Resume)
   
   
   
