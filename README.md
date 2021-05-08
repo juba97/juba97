@@ -4,7 +4,7 @@
 
 Creativity is my most exceptional skill. I have incredible attention to detail and perseverance in getting the job done well and on time. always enjoy new challenges looking to overcome my high standards.
 
-Skills: C#/  Javascript (ES6)/  T-SQL/ HTML / CSS
+**Skills:** C#/  Javascript (ES6)/  T-SQL/ HTML / CSS
 
 - 🌱 I’m currently learning  **interested in software engineering, and I've learned the basics.** 
 
