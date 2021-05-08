@@ -7,7 +7,3 @@
 **Skills:** C#/  Javascript (ES6)/  T-SQL/ HTML / CSS
 
 - 🌱 **I’m currently learning:** interested in software engineering, and I've learned the basics.
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/juba97)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/juba-koguashvili-0a2108a8/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/jubakoguashvili)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/14513605/juba-koguashvili)  
-
