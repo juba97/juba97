@@ -1,5 +1,5 @@
 ### Hi there 👋, *My name is Juba*
-#### I'M .NET Developer
+#### I'm .NET Developer
 #
 
 > 🌱 **interested in software engineering, and I've learned the basics.**
