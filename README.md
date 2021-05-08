@@ -1,4 +1,5 @@
-### Hi there 👋, *My name is Juba*  @Juba97
+### @Juba97
+### Hi there 👋, *My name is Juba*  
 #### 💻 I'm .NET Developer 
 #
 
