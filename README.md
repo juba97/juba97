@@ -1,1 +1,1 @@
-- 🌱 **I’m currently learning:** interested in software engineering, and I've learned the basics.
+- 🌱 **I’m currently learning:** *interested in software engineering, and I've learned the basics.*
