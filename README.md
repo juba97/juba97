@@ -1,5 +1,15 @@
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juba97&show_icons=true&locale=en&layout=compact" alt="juba97" /></p>
+public class About extends Me {
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juba97&show_icons=true&locale=en" alt="juba97" /></p>
+    public String getCurrentWorkplace(){
+        return "Deputy Head of Software Development at Georgia Revenue Service";
+    }
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juba97&" alt="juba97" /></p>
+    public Set<String> getDailyKnowledge(){
+        Set<String> brainCells=new HashSet<>();
+        brainCells.add("Java");
+        brainCells.add("Kotlin");
+        brainCells.add("PL/SQL");
+        brainCells.add("Typescript");
+        return brainCells;
+    }
+}
