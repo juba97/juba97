@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=juba97&label=Profile%20views&color=0e75b6&style=flat" alt="juba97" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
