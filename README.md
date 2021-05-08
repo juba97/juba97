@@ -2,10 +2,8 @@
 #### 💻 I'm .NET Developer 
 #
 
-> 🌱 **interested in software engineering, and I've learned the basics.**
- 
-
-> 🔭 **I am currently studying C #, .Net core**
+- 🌱 **interested in software engineering, and I've learned the basics.**
+- 🔭 **I am currently studying C #, .Net core**
 
 ⚡ [Jump on the resume](https://github.com/juba97/Resume)
   
