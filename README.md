@@ -8,7 +8,7 @@
 ⚡ [Jump on the resume](https://github.com/juba97/Resume)
   
 
-[<img src='https://www.shareicon.net/data/2016/08/22/818731_media_512x512.png' alt='github' height='30'>](https://juba97.medium.com/)  [<img src='https://icons.veryicon.com/png/Internet%20%26%20Web/Simple%201/linkedin.png' alt='linkedin' height='30'>](https://www.linkedin.com/in/juba-koguashvili-0a2108a8/)  [<img src='https://seeklogo.com/images/T/twitter-logo-A84FE9258E-seeklogo.com.png' alt='twitter' height='30'>](https://twitter.com/jubakoguashvili) [<img src='https://viblo.asia/uploads/8405b7c1-072c-431c-a7d4-a91230b4ddff.jpg' alt='stackoverflow' height='30'>](https://stackoverflow.com/users/14513605/juba-koguashvili)  
+[<img src='https://www.shareicon.net/data/2016/08/22/818731_media_512x512.png' alt='github' height='30'>](https://juba97.medium.com/)  [<img src='https://icons.veryicon.com/png/Internet%20%26%20Web/Simple%201/linkedin.png' alt='linkedin' height='30'>](https://www.linkedin.com/in/juba-koguashvili-0a2108a8/)  [<img src='https://seeklogo.com/images/T/twitter-logo-A84FE9258E-seeklogo.com.png' alt='twitter' height='30'>](https://twitter.com/jubakoguashvili) [<img src='https://external-preview.redd.it/QgPvRTknlY3rMNDqH1k4I37XGiq9tZF_FsygC_Xht4o.jpg?auto=webp&s=8cd5e918e2bde6ca72d4445d6fc007f203689799' alt='stackoverflow' height='30'>](https://stackoverflow.com/users/14513605/juba-koguashvili)  
 
   
  
