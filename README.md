@@ -1,4 +1,4 @@
-<h1 align="left"> Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, My name is Juba</h1>
+<p align="left"> Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, My name is Juba</p>
 #### 💻 I'm .NET Developer 
 #
 
