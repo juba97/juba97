@@ -1,6 +1,6 @@
 ### *Hi there 👋, My name is Juba*  
 #### 💻 I'm .NET Developer 
-#
+
 - 🔭 **Interested in software engineering, and I've learned the basics.**
 - 🧠 **I'm currently studying C#, OOP, .NET Core.**
 - 🗯️ **My hobbies are Swimming, Workout, and Motorcycles.**
