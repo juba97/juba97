@@ -3,6 +3,7 @@
 #
 
 - 🌱 **interested in software engineering, and I've learned the basics.**
+- ⚡ **My hobbies are Swimming, Workout and, Motorcycle**
 - 🔭 **I'm currently studying C#, OOP, .NET Core.**
 
 
