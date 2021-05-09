@@ -4,7 +4,8 @@
 
 - 🌱 **interested in software engineering, and I've learned the basics.**
 - 🔭 **I am currently studying C#, OOP, .Net core.**
-- 
+
+
 📝 [Jump on the resume](https://github.com/juba97/Resume)
 
  
