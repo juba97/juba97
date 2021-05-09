@@ -1,5 +1,5 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Juba</h1>
-### *Hi there 👋, My name is Juba*  
+<h1 align="left">*Hi there*<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Juba</h1>
+### *👋, My name is Juba*  
 #### 💻 I'm .NET Developer 
 #
 
