@@ -7,4 +7,4 @@
 
 ⚡ [Jump on the resume](https://github.com/juba97/Resume)
   
- [<img src='https://icons.veryicon.com/png/Internet%20%26%20Web/Simple%201/linkedin.png' alt='linkedin' height='50'>](https://www.linkedin.com/in/juba-koguashvili-0a2108a8/)  [<img src='https://seeklogo.com/images/T/twitter-logo-A84FE9258E-seeklogo.com.png' alt='twitter' height='50'>](https://twitter.com/jubakoguashvili)
+ [<img src='https://icons.veryicon.com/png/Internet%20%26%20Web/Simple%201/linkedin.png' alt='linkedin' height='30'>](https://www.linkedin.com/in/juba-koguashvili-0a2108a8/)  [<img src='https://seeklogo.com/images/T/twitter-logo-A84FE9258E-seeklogo.com.png' alt='twitter' height='30'>](https://twitter.com/jubakoguashvili)
