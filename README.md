@@ -2,7 +2,7 @@
 #### 💻 I'm .NET Developer 
 #
 
-- 🌱 **interested in software engineering, and I've learned the basics.**
+- 🌱 **Interested in software engineering, and I've learned the basics.**
 - 🔭 **I'm currently studying C#, OOP, .NET Core.**
 - 🗯️ **My hobbies are Swimming, Workout and Motorcycle.**
 
