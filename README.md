@@ -4,7 +4,7 @@
 
 - 🌱 **interested in software engineering, and I've learned the basics.**
 - 🔭 **I'm currently studying C#, OOP, .NET Core.**
-- ⚡ **My hobbies are Swimming, Workout and Motorcycle.**
+- 🗯️ **My hobbies are Swimming, Workout and Motorcycle.**
 
 
 📄 [Jump on the resume](https://github.com/juba97/Resume)
