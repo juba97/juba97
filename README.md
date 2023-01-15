@@ -1,6 +1,6 @@
 ### *Hi there 👋, My name is Juba!*
 #
-#### 💻 **I'm .NET Developer**
+#### 💻 **I'm Full Stack Developer**
 
 - 🔭 **Interested in software engineering, and I've learned the basics.**
 - 🧠 **I'm currently studying JavasSript, OOP, React.**
