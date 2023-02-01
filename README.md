@@ -5,7 +5,7 @@
 > Creativity is my most exceptional skill. I have incredible attention to detail and perseverance in getting the job done well and on time. I always enjoy new challenges looking to overcome my high standards.
 
 - 🔭 **Interested in software engineering, and I've learned the basics.**
-- 🧠 **I'm currently studying JavasSript, OOP, React.**
+- 🧠 **I'm currently studying JavaScript, HTML, CSS, Node.js, React.**
 - 🗯️ **My hobbies are Swimming, Workout, and Motorcycles.**
 
 
