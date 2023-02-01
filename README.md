@@ -1,6 +1,6 @@
 ### *Hi there 👋 My name is Juba!*
 #
-#### 💻 **I'm Full Stack Developer**
+#### 💻 **I'm Full-Stack Developer**
 
 > Creativity is my most exceptional skill. I have incredible attention to detail and perseverance in getting the job done well and on time. I always enjoy new challenges looking to overcome my high standards.
 
