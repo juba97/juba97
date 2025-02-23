@@ -2,10 +2,10 @@
 #
 #### 💻 **I'm a Full-Stack Developer**
 
-> Creativity is my most exceptional skill. I have incredible attention to detail and perseverance in getting the job done well and on time. I always enjoy new challenges looking to overcome my high standards.
+> Creativity is my most exceptional skill. I have incredible attention to detail and perseverance in completing the job well and on time. I always enjoy new challenges looking to overcome my high standards.
 
 - 🔭 **Interested in software engineering, and I've learned the basics.**
-- 🧠 **I work mainly with web technologies such as JavaScript, HTML, CSS, Node.js, React.**
+- 🧠 **I work mainly with web technologies such as JavaScript, HTML, CSS, Node.js, and React.**
 - 🗯️ **My hobbies are Swimming, Workout, and Motorcycles.**
 
 
