@@ -1,4 +1,4 @@
-### *Hi there 👋 My name is Juba!*
+### *Hi there 👋*
 #
 #### 💻 **Quality Assurance Tester | Data-Driven Testing**
 
